@@ -22,3 +22,9 @@ _https://github.com/kdrag0n/proton-clang_
 
 _https://github.com/sarthakroy2002/kernel_realme_RMX2020_
 **DOWNLOADZIP**:_https://github.com/sarthakroy2002/kernel_realme_RMX2020/archive/refs/heads/Q.zip_
+
+# Problems
+
+> To prevent __CONFIG_CC_STACKPROTECTOR_STRONG: -fstack-protector-strong not supported by compiler__ 
+> It is often related in path/directory, sometimes this is related in your os. It is recomended to remove the spaces of the folders in path
+> Rename the folder too.
