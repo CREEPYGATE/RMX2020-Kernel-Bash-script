@@ -26,5 +26,7 @@ _https://github.com/sarthakroy2002/kernel_realme_RMX2020_
 # Problems
 
 > To prevent __CONFIG_CC_STACKPROTECTOR_STRONG: -fstack-protector-strong not supported by compiler__ 
-> It is often related in path/directory, sometimes this is related in your os. It is recomended to remove the spaces of the folders in path
-> Rename the folder too.
+
+>It is related in your path/dir. You can rename and remove the spaces of the folders and set path.
+>example /home/user/Desktop**/Kernel Compile/** 
+>Remove Spaces/Rename the Kernel Compile Folder.
